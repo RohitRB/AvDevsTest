@@ -1,6 +1,7 @@
 # AvDevsTest
 This is a simple repository for AvDevs Test for interview
-you need to create a database & one table to run this project
+
+#you need to create a database & one table to run this project
 
 CREATE DATABASE user_system;
 
